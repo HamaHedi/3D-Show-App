@@ -1,2 +1,2 @@
 # 3D-Show-App
-MERN App where user can Add like and update posts
+MERN App where user can Add,like,update and delete posts
