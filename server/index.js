@@ -13,7 +13,7 @@ app.use(cors());
 app.use('/posts', postRoutes);
 app.use('/user', userRoutes);
 const CONNECTION_URL =
-  'mongodb+srv://hama:hama123@cluster0.4ccgn.mongodb.net/?retryWrites=true&w=majority';
+  'mongodb+srv://yourUserName:YourPassword@cluster0.4ccgn.mongodb.net/?retryWrites=true&w=majority';
 
 const PORT = process.env.PORT || 5000;
 
